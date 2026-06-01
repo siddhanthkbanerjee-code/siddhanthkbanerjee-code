@@ -16,5 +16,5 @@ Oxford MBA. Consumer marketing background, now building AI products end to end a
 
 ## Elsewhere
 
-- Website: [WEBSITE_URL]
-- LinkedIn: [LINKEDIN_URL]
+- Website: [siddhanthbanerjee.com](https://siddhanthbanerjee.com)
+- LinkedIn: [linkedin.com/in/siddhanthbanerjee](https://www.linkedin.com/in/siddhanthbanerjee/)
