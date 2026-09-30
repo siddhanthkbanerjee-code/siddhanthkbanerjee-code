@@ -1,8 +1,8 @@
 # Siddhanth Banerjee
 
-**AI builder and operator.** Oxford MBA and operator (Zomato, Epigamia). Five years across marketing, product and strategy, now building in applied AI and AI go-to-market.
+**AI builder and operator.** Oxford MBA with five years across marketing, product and strategy, now building in applied AI and AI go-to-market.
 
-Everything I build is on my website, with the product working on each page: **[siddhanthbanerjee.com](https://www.siddhanthbanerjee.com)**
+Everything I build is on my website: **[siddhanthbanerjee.com](https://www.siddhanthbanerjee.com)**
 
 ## AI work
 
